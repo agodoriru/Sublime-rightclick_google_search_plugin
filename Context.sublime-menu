@@ -1,0 +1,7 @@
+[
+    {
+        "id": "search_google",
+        "caption": "search_google",
+        "command": "search_google"
+    }
+]
