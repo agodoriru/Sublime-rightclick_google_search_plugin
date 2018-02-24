@@ -1,0 +1,13 @@
+[
+    {
+        "id": "search_google",
+        "caption": "Search",
+        "children":
+        [
+            {
+                "caption": "run",
+                "command": "search_google",
+            }
+        ],
+    }
+]
