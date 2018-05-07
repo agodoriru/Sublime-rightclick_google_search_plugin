@@ -1,11 +1,12 @@
 [
     {
-        "id": "search_google",
-        "caption": "Search",
+        "id": "tools",
+        "mnemonic": "n",
+        "caption": "Tools",
         "children":
         [
             {
-                "caption": "run",
+                "caption": "google search",
                 "command": "search_google",
             }
         ],
